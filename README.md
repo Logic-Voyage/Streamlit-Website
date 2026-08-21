@@ -43,7 +43,7 @@ pip install streamlit
 3. Run the app using:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_code.py
 ```
 
 4. The app will open automatically in your default browser at `http://localhost:8501`
